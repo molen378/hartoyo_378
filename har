@@ -1,0 +1,25 @@
+data:text/html, <video width="100%" controls poster="http://localhost:8080/IMG-20210707-WA0000.jpg">
+  <source src="https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?channel=275"
+ type="video/mp4">
+  <source src="mov_bbb.ogg" type="video/ogg">
+  </video>
+  <br/>
+  data:text/html, <video width="100%" controls poster="http://localhost:8080/IMG-20210707-WA0000.jpg">
+  <source src="https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?channel=275"
+ type="video/mp4">
+  <source src="mov_bbb.ogg" type="video/ogg">
+  </video>
+  <br/>
+  data:text/html, <video width="100%" controls poster="http://localhost:8080/IMG-20210707-WA0000.jpg">
+  <source src="https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?channel=275"
+ type="video/mp4">
+  <source src="mov_bbb.ogg" type="video/ogg">
+  </video>
+  <br/>
+  data:text/html, <video width="100%" controls poster="http://localhost:8080/IMG-20210707-WA0000.jpg">
+  <source src="https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?channel=275"
+ type="video/mp4">
+  <source src="mov_bbb.ogg" type="video/ogg">
+  </video>
+  <body style="background-color:#000000;">
+</body>
